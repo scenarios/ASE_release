@@ -1,0 +1,2 @@
+C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\foxitSDK\foxitSDK.vcxproj;x86
+C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\pdfReader.csproj;x86

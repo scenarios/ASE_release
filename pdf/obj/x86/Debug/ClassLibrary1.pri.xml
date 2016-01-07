@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="ClassLibrary1" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="ClassLibrary1">
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="ClassLibrary1.rd.xml" uri="ms-resource://ClassLibrary1/Files/ClassLibrary1/Properties/ClassLibrary1.rd.xml">
+						<Candidate type="Path">
+							<Value>ClassLibrary1\Properties\ClassLibrary1.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

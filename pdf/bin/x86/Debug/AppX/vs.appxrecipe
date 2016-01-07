@@ -1,0 +1,834 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BPQCZX1</Machine>
+    <WindowsUser>v-ljianp</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>c0daafd6-3728-4c89-a551-9559d6c5dda5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2EDD68C4928FC293C0F915E90457EC09C71053A2061F0B5389982993E659D05D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c0daafd6-3728-4c89-a551-9559d6c5dda5_1.0.0.0_x86__7550epte7r0cr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c0daafd6-3728-4c89-a551-9559d6c5dda5_7550epte7r0cr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c0daafd6-3728-4c89-a551-9559d6c5dda5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=v-yuyzhu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-07T06:52:42.076</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\0001.jpg">
+      <PackagePath>Assets\0001.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\0002.jpg">
+      <PackagePath>Assets\0002.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\0003.jpg">
+      <PackagePath>Assets\0003.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\0005.jpg">
+      <PackagePath>Assets\0005.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\0006.jpg">
+      <PackagePath>Assets\0006.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\001.png">
+      <PackagePath>Assets\001.png</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\002.jpg">
+      <PackagePath>Assets\002.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\cliff.jpg">
+      <PackagePath>Assets\cliff.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\grapes.jpg">
+      <PackagePath>Assets\grapes.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\rainier.jpg">
+      <PackagePath>Assets\rainier.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\smallTile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\squareTile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\storeLogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\sunset.jpg">
+      <PackagePath>Assets\sunset.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\treetops.jpg">
+      <PackagePath>Assets\treetops.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\valley.jpg">
+      <PackagePath>Assets\valley.jpg</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\1.jpg">
+      <PackagePath>backlog\1.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\10.jpg">
+      <PackagePath>backlog\10.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\11.jpg">
+      <PackagePath>backlog\11.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\2.jpg">
+      <PackagePath>backlog\2.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\3.jpg">
+      <PackagePath>backlog\3.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\4.jpg">
+      <PackagePath>backlog\4.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\5.jpg">
+      <PackagePath>backlog\5.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\6.jpg">
+      <PackagePath>backlog\6.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\7.jpg">
+      <PackagePath>backlog\7.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\8.jpg">
+      <PackagePath>backlog\8.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\backlog\9.jpg">
+      <PackagePath>backlog\9.jpg</PackagePath>
+      <Modified>2015-12-13T13:57:14.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\ClassLibrary1.dll">
+      <PackagePath>ClassLibrary1.dll</PackagePath>
+      <Modified>2016-01-04T12:42:31.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\ClassLibrary1\Properties\ClassLibrary1.rd.xml">
+      <PackagePath>ClassLibrary1\Properties\ClassLibrary1.rd.xml</PackagePath>
+      <Modified>2015-12-01T20:28:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-11-23T05:27:53.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\DataBasedll.dll">
+      <PackagePath>DataBasedll.dll</PackagePath>
+      <Modified>2015-12-15T03:17:54.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\DataBasedll\Properties\DataBasedll.rd.xml">
+      <PackagePath>DataBasedll\Properties\DataBasedll.rd.xml</PackagePath>
+      <Modified>2015-11-25T12:54:02.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\DataBasedll\SQLitePCL.Ext.dll">
+      <PackagePath>DataBasedll\SQLitePCL.Ext.dll</PackagePath>
+      <Modified>2015-11-12T07:46:58.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\DataBasedll\SQLitePCL.Ext.pri">
+      <PackagePath>DataBasedll\SQLitePCL.Ext.pri</PackagePath>
+      <Modified>2015-11-12T07:46:58.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\entrypoint\pdf.exe">
+      <PackagePath>entrypoint\pdf.exe</PackagePath>
+      <Modified>2016-01-06T11:23:42.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\foxitSDK.dll">
+      <PackagePath>foxitSDK.dll</PackagePath>
+      <Modified>2016-01-07T06:52:37.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\foxitSDK.winmd">
+      <PackagePath>foxitSDK.winmd</PackagePath>
+      <Modified>2016-01-06T07:31:27.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\foxitSDK\lib\fsdk_win10_x86.dll">
+      <PackagePath>foxitSDK\lib\fsdk_win10_x86.dll</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\foxitSDK\lib\fsdk_win10_x86.lib">
+      <PackagePath>foxitSDK\lib\fsdk_win10_x86.lib</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\foxitSDK\lib\gsdk_key.txt">
+      <PackagePath>foxitSDK\lib\gsdk_key.txt</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\foxitSDK\lib\gsdk_sn.txt">
+      <PackagePath>foxitSDK\lib\gsdk_sn.txt</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\fsdk_win10_x86.dll">
+      <PackagePath>fsdk_win10_x86.dll</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\getBing.dll">
+      <PackagePath>getBing.dll</PackagePath>
+      <Modified>2015-12-14T10:47:24.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
+      <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
+      <Modified>2015-11-23T07:28:48.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
+      <Modified>2015-11-23T07:28:48.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+      <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
+      <Modified>2015-11-23T07:28:48.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2015-11-23T05:27:36.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2015-11-23T05:27:32.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\pdf.exe">
+      <PackagePath>pdf.exe</PackagePath>
+      <Modified>2016-01-07T06:52:42.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\pdf.xr.xml">
+      <PackagePath>pdf.xr.xml</PackagePath>
+      <Modified>2016-01-04T08:35:58.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-12-29T16:53:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-06T09:41:42.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2015-12-03T07:43:33.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\SQLitePCL.dll">
+      <PackagePath>SQLitePCL.dll</PackagePath>
+      <Modified>2015-12-03T07:43:58.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\SQLitePCL.Ext.dll">
+      <PackagePath>SQLitePCL.Ext.dll</PackagePath>
+      <Modified>2015-12-03T07:43:57.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+      <Modified>2015-11-23T05:27:35.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2015-11-23T05:27:36.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2015-11-23T05:27:44.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2015-11-23T05:27:31.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+      <Modified>2015-11-23T05:27:32.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2015-11-23T05:27:35.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2015-11-23T05:27:32.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+      <Modified>2015-11-23T05:27:32.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+      <Modified>2015-11-23T05:27:32.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2015-11-23T05:27:32.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2015-11-23T05:27:32.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2015-11-23T05:27:36.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+      <Modified>2015-11-23T05:27:40.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2015-11-23T05:27:32.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2015-11-23T05:27:40.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2015-11-23T05:27:41.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2015-11-23T05:27:42.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+      <Modified>2015-11-23T05:27:42.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+      <Modified>2015-11-23T05:27:41.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+      <Modified>2015-11-23T05:27:44.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+      <Modified>2015-11-23T05:27:32.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2015-11-23T05:27:41.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Private.Networking.dll">
+      <PackagePath>System.Private.Networking.dll</PackagePath>
+      <Modified>2015-11-23T05:27:45.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2015-11-23T05:27:31.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2015-11-23T05:27:41.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+      <Modified>2015-11-23T05:27:54.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
+      <Modified>2015-11-23T05:27:53.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
+      <Modified>2015-11-23T05:27:53.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2015-11-23T05:27:41.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2015-11-23T05:27:41.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+      <Modified>2015-11-23T05:27:41.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2015-11-23T05:27:41.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2015-11-23T05:27:46.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2015-11-23T05:27:44.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2015-11-23T05:27:42.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2015-11-23T05:27:34.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2015-11-23T05:27:35.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2015-11-23T05:27:42.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+      <Modified>2015-11-23T05:27:34.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+      <Modified>2015-11-23T05:27:34.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+      <Modified>2015-11-23T05:27:34.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+      <Modified>2015-11-23T05:27:37.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2015-11-23T05:27:44.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2015-11-23T05:27:31.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+      <Modified>2015-11-23T05:27:45.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2015-11-23T05:27:43.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2015-11-23T05:27:44.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2015-11-23T05:27:44.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+      <Modified>2015-11-23T05:27:33.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+      <Modified>2015-11-23T05:27:44.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2015-11-23T05:27:31.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2015-11-23T05:27:35.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\UI.dll">
+      <PackagePath>UI.dll</PackagePath>
+      <Modified>2016-01-04T12:44:14.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\UI\Popup.xaml">
+      <PackagePath>UI\Popup.xaml</PackagePath>
+      <Modified>2016-01-04T12:44:13.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\UI\Properties\UI.rd.xml">
+      <PackagePath>UI\Properties\UI.rd.xml</PackagePath>
+      <Modified>2015-12-01T05:45:40.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\UI\UI.xr.xml">
+      <PackagePath>UI\UI.xr.xml</PackagePath>
+      <Modified>2015-12-13T09:06:08.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-ljianp\Downloads\foxitSDK-master\foxitSDK-master\pdf\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2015-11-10T03:55:58.329</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.120\14.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug.Universal</Name>
+      <Version>12.0.30501.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug.Universal, MinVersion = 12.0.30501.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.120\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.Universal.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.120\14.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug.Universal</Name>
+      <Version>12.0.30501.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug.Universal, MinVersion = 12.0.30501.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.120\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.Universal.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.120\14.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug.Universal</Name>
+      <Version>12.0.30501.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug.Universal, MinVersion = 12.0.30501.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.120\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.Universal.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

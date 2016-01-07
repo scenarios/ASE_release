@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="UI" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="UI">
+				<NamedResource name="Popup.xaml" uri="ms-resource://UI/Files/UI/Popup.xaml">
+					<Candidate type="Path">
+						<Value>UI\Popup.xaml</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Popup.xbf" uri="ms-resource://UI/Files/UI/Popup.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UI.xr.xml" uri="ms-resource://UI/Files/UI/UI.xr.xml">
+					<Candidate type="Path">
+						<Value>UI\UI.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="UI.rd.xml" uri="ms-resource://UI/Files/UI/Properties/UI.rd.xml">
+						<Candidate type="Path">
+							<Value>UI\Properties\UI.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

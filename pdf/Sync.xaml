@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="pdf.Sync"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:pdf"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        
+        <StackPanel  Width="100" BorderThickness="2" Margin="130,124,130,439" Background="AliceBlue">
+            <Button Background="AliceBlue" x:Name="Sync_upButton" Content=" Sync_up " Click="Sync_upAction" Foreground="#FF0E0D0D" />
+            <Button Background="AliceBlue" x:Name="Sync_downButton" Content=" Sync_down " Click="Sync_downAction" Foreground="#FF0E0D0D" RenderTransformOrigin="0.51,3.558" />
+        </StackPanel>
+    </Grid>
+</Page>

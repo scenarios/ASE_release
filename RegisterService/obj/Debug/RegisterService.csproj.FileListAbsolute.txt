@@ -1,0 +1,11 @@
+C:\Users\v-yizzho\Desktop\LogInPage\RegisterService\bin\RegisterService.dll.config
+C:\Users\v-yizzho\Desktop\LogInPage\RegisterService\bin\RegisterService.dll
+C:\Users\v-yizzho\Desktop\LogInPage\RegisterService\bin\RegisterService.pdb
+C:\Users\v-yizzho\Desktop\LogInPage\RegisterService\obj\Debug\RegisterService.dll
+C:\Users\v-yizzho\Desktop\LogInPage\RegisterService\obj\Debug\RegisterService.pdb
+C:\Users\v-yizzho\Desktop\LogInPage\RegisterService\obj\Debug\RegisterService.csprojResolveAssemblyReference.cache
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\RegisterService\bin\RegisterService.dll.config
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\RegisterService\bin\RegisterService.dll
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\RegisterService\bin\RegisterService.pdb
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\RegisterService\obj\Debug\RegisterService.dll
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\RegisterService\obj\Debug\RegisterService.pdb

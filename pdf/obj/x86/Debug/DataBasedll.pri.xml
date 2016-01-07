@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="DataBasedll" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="DataBasedll">
+				<NamedResource name="SQLitePCL.Ext.dll" uri="ms-resource://DataBasedll/Files/DataBasedll/SQLitePCL.Ext.dll">
+					<Candidate type="Path">
+						<Value>DataBasedll\SQLitePCL.Ext.dll</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SQLitePCL.Ext.pri" uri="ms-resource://DataBasedll/Files/DataBasedll/SQLitePCL.Ext.pri">
+					<Candidate type="Path">
+						<Value>DataBasedll\SQLitePCL.Ext.pri</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="DataBasedll.rd.xml" uri="ms-resource://DataBasedll/Files/DataBasedll/Properties/DataBasedll.rd.xml">
+						<Candidate type="Path">
+							<Value>DataBasedll\Properties\DataBasedll.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

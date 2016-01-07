@@ -1,0 +1,11 @@
+C:\Users\v-yizzho\Desktop\LogInPage\AccessSqlServer\bin\AccessSqlServer.dll.config
+C:\Users\v-yizzho\Desktop\LogInPage\AccessSqlServer\bin\AccessSqlServer.dll
+C:\Users\v-yizzho\Desktop\LogInPage\AccessSqlServer\bin\AccessSqlServer.pdb
+C:\Users\v-yizzho\Desktop\LogInPage\AccessSqlServer\obj\Debug\AccessSqlServer.dll
+C:\Users\v-yizzho\Desktop\LogInPage\AccessSqlServer\obj\Debug\AccessSqlServer.pdb
+C:\Users\v-yizzho\Desktop\LogInPage\AccessSqlServer\obj\Debug\AccessSqlServer.csprojResolveAssemblyReference.cache
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\AccessSqlServer\bin\AccessSqlServer.dll.config
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\AccessSqlServer\bin\AccessSqlServer.dll
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\AccessSqlServer\bin\AccessSqlServer.pdb
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\AccessSqlServer\obj\Debug\AccessSqlServer.dll
+C:\Users\v-ljianp\Documents\My Received Files\LogInPage\AccessSqlServer\obj\Debug\AccessSqlServer.pdb
